@@ -2,6 +2,12 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
+  color: #40514E;
+  font-weight: 800;
+}
+
+p{
+  line-height: 2;
 }
 
 h1 {
@@ -55,8 +61,6 @@ a {
   position: relative;
   padding-top: 100px;
 }
-
-.middlecontainer {}
 
 .bottom-container {
   background-color: #66BFBF;
@@ -115,7 +119,6 @@ a {
 
 .footer-link:hover{
   color: #EAF6F6;
-  text-decoration: underline;
 }
 
 .linkedin{
@@ -146,10 +149,10 @@ a {
   height: 4px;
   line-height: 4px;
   color: #FFFFFF;
-  font-family: Verdana;
+  font-family: 'Montserrat Alternates', sans-serif;
   width: 119px;
   font-size: 15px;
-  font-weight: 100;
+  font-weight: 800;
   padding: 18px;
   -webkit-box-shadow: 1px 1px 20px 0 #000000;
   -moz-box-shadow: 1px 1px 20px 0 #000000;
